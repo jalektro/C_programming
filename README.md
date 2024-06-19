@@ -1,0 +1,1 @@
+This repository contains a series of C programming exercises intended to help you prepare for your CP2 exam. The exercises cover a range of topics and difficulty levels, ensuring comprehensive practice.
