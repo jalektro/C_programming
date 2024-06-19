@@ -1,0 +1,99 @@
+John Doe 123 2
+Math 3 85 90 78 
+Science 2 88 92 
+Science 2 88
+92 3 0 0 0 
+John 3 0 0 0 
+Doe 123 2 668 -1086649936 668 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Math 3 85 90 78 
+Science 2 88 92 
+Science 2 -1086660368 668 
+Science 2 -1086648880 668 
+Science 2 -1086650064 668 
+Science 2 -1086650032 668 
+Science 2 -1086650000 668 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+Science 2 0 0 
+John 123 2
+Doe 123 2 668 -1086660400 668 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Math 3 85 90 78 
+Doe 123 2
+Math 3 85 90 78 
+Science 2 88 92 
+John 32760 0

@@ -1,0 +1,34 @@
+Certainly! Here are five exercises to practice file handling in C programming:
+
+### Exercise 1: Basic File Reading and Output
+
+Write a program that reads content from a text file (`input.txt`) and outputs it to the console.
+
+### Exercise 2: File Copy
+
+Write a program that copies the contents of one file (`source.txt`) to another file (`destination.txt`). 
+Make sure to handle errors if the source file does not exist or if there are issues with opening or writing to the destination file.
+
+### Exercise 3: File Word Count
+
+Write a program that reads a text file (`textfile.txt`) and counts the number of words in it.
+ Words are separated by spaces, tabs, or newline characters.
+
+### Exercise 4: File Line Count
+
+Write a program that reads a text file (`data.txt`) and counts the number of lines in it.
+ Each line ends with a newline character (`'\n'`).
+
+### Exercise 5: File Append
+
+Write a program that prompts the user to enter a line of text and appends this line to a file (`log.txt`).
+ If the file doesn’t exist, it should be created. Ensure proper error handling for file opening and writing operations.
+
+### Exercise 6: File Random Access
+
+Write a program that demonstrates random access to a binary file (`data.bin`).
+ Implement functions to read and write records at specific positions in the file.
+ Records can be a struct with fields like ID, name, age, etc.
+
+These exercises cover a range of file handling operations in C and will help you become 
+familiar with manipulating files, handling errors, and working with both text and binary files.
